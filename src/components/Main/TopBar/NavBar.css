@@ -1,0 +1,14 @@
+.dropdown-toggle::after{
+    display: none;
+}
+.btn{
+    padding:zero;
+}
+.dropdown-menu {
+    padding:0;
+}
+.dropdown-menu.show{
+    transform: translate(16px, 71px);
+    margin:0;
+    border:0;
+}
